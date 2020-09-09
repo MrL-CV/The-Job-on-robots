@@ -1,7 +1,7 @@
 # project
 
-1.Robot dog
+1.Robot Dog
 
-2.object detection
+2.Object Detection
 
 3.SLAM
