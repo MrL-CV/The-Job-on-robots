@@ -1,6 +1,6 @@
 # project
 
-1.Robot Dog
+1.Image Stabilisation
 
 2.Object Detection
 
