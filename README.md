@@ -4,4 +4,4 @@
 
 2.Object Detection
 
-3.SLAM
+3.SLAM & Path planning
